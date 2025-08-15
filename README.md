@@ -4,6 +4,7 @@ A modern Flutter quiz application with category selection, timed questions, and 
 
 ## Features
 
+### ✅ **Implemented Features**
 - 🎯 **Category Selection**: Choose from Geography, Math, Science, and Literature
 - ⏱️ **Timed Questions**: 15-second countdown per question with visual timer
 - 🎨 **Smooth Animations**: Beautiful transitions between questions
@@ -11,6 +12,15 @@ A modern Flutter quiz application with category selection, timed questions, and 
 - 🧮 **Math Support**: LaTeX rendering for mathematical expressions
 - 🌙 **Theme Support**: Dark and light mode compatibility
 - 📱 **Responsive Design**: Works on all screen sizes
+- 🔄 **Navigation**: Proper back button handling and navigation flow
+
+### 🚧 **Planned Features (Not Yet Implemented)**
+- 🧪 **Unit Tests**: Comprehensive test coverage for score calculation and business logic
+- 🔄 **CI/CD Pipeline**: GitHub Actions for automated testing and analysis
+- 📊 **Analytics**: User behavior tracking and performance metrics
+- 🔔 **Notifications**: Reminders and achievement notifications
+- 🌐 **Online Leaderboard**: Cloud-based score sharing
+- 🎮 **Multiplayer**: Real-time quiz competitions
 
 ## Flutter/Dart Version
 
@@ -29,7 +39,7 @@ A modern Flutter quiz application with category selection, timed questions, and 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ariful2016/Flutter-Quiz-App.git
+   git clone <repository-url>
    cd flutter_quiz_app
    ```
 
@@ -104,4 +114,30 @@ lib/
 2. **Answer Questions**: Choose answers within the 15-second time limit
 3. **View Results**: See your score and save to leaderboard
 4. **Check Leaderboard**: View top scores from all players
+
+## Testing & Quality Assurance
+
+### Current Status
+- ✅ **Manual Testing**: All features tested manually
+- ❌ **Unit Tests**: Not implemented yet
+- ❌ **Integration Tests**: Not implemented yet
+- ❌ **CI/CD**: Not implemented yet
+
+### Planned Testing Strategy
+- **Unit Tests**: Test score calculation, timer logic, and business rules
+- **Widget Tests**: Test UI components and user interactions
+- **Integration Tests**: Test complete user flows
+- **CI/CD Pipeline**: Automated testing on pull requests
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests for new features (when testing framework is implemented)
+5. Submit a pull request
+
+## License
+
+This project is licensed under the MIT License.
 
