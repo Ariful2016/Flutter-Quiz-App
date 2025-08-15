@@ -29,7 +29,7 @@ A modern Flutter quiz application with category selection, timed questions, and 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ariful2016/Flutter-Quiz-App.git
    cd flutter_quiz_app
    ```
 
@@ -105,13 +105,3 @@ lib/
 3. **View Results**: See your score and save to leaderboard
 4. **Check Leaderboard**: View top scores from all players
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
