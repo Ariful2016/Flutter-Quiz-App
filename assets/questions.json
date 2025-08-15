@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Rome", "Berlin"],
+    "answer_index": 0,
+    "category": "Geography"
+  },
+  {
+    "question": "Evaluate the integral: $$ \\int_0^1 x^2 dx $$",
+    "options": ["1/2", "1/3", "2/3", "1"],
+    "answer_index": 1,
+    "category": "Math"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer_index": 1,
+    "category": "Science"
+  },
+  {
+    "question": "Solve for x: $$ 2x + 3 = 7 $$",
+    "options": ["1", "2", "3", "4"],
+    "answer_index": 1,
+    "category": "Math"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Mark Twain", "Jane Austen"],
+    "answer_index": 0,
+    "category": "Literature"
+  },
+  {
+    "question": "What is the value of $$ e^{\\ln 5} $$?",
+    "options": ["1", "5", "ln 5", "e^5"],
+    "answer_index": 1,
+    "category": "Math"
+  },
+  {
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer_index": 1,
+    "category": "Science"
+  },
+  {
+    "question": "What is the derivative of $$ \\sin(x) $$?",
+    "options": ["cos(x)", "-sin(x)", "-cos(x)", "sin(x)"],
+    "answer_index": 0,
+    "category": "Math"
+  },
+  {
+    "question": "Which element has the chemical symbol 'Au'?",
+    "options": ["Silver", "Gold", "Oxygen", "Iron"],
+    "answer_index": 1,
+    "category": "Science"
+  },
+  {
+    "question": "Evaluate the sum: $$ \\sum_{n=1}^{5} n $$",
+    "options": ["10", "15", "20", "5"],
+    "answer_index": 1,
+    "category": "Math"
+  }
+]
