@@ -12,7 +12,6 @@ A modern Flutter quiz application with category selection, timed questions, and 
 - 🧮 **Math Support**: LaTeX rendering for mathematical expressions
 - 🌙 **Theme Support**: Dark and light mode compatibility
 - 📱 **Responsive Design**: Works on all screen sizes
-- 🔄 **Navigation**: Proper back button handling and navigation flow
 
 ### 🚧 **Planned Features (Not Yet Implemented)**
 - 🧪 **Unit Tests**: Comprehensive test coverage for score calculation and business logic
@@ -22,7 +21,6 @@ A modern Flutter quiz application with category selection, timed questions, and 
 
 - **Flutter**: 3.27.x or higher
 - **Dart**: 3.0.0 or higher
-- **Minimum SDK**: Android API 21, iOS 11.0
 
 ## Setup Steps
 
@@ -102,7 +100,6 @@ lib/
 - `flutter_riverpod`: State management
 - `flutter_tex`: LaTeX rendering for math questions
 - `hive`: Local database for scores
-- `flutter_svg`: SVG rendering for math expressions
 
 ## Usage
 
